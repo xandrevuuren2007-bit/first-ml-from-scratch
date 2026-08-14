@@ -29,4 +29,4 @@ This in-turn resulted in unreliable code, but the purpose of the project was to 
 
 # Next Step
 The next stage will be learning and implementing gradient descent.
-After understanding how the formal optimization works mechanically, I plan to compare the improved implementation with the original experimental version.
+After understanding how the formal optimization works mechanically, I plan to compare the improved implementation with the original experimental version. 
