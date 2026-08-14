@@ -9,7 +9,8 @@ import pandas as pd
 import random
 import matplotlib.pyplot as plt # for when I want to visualize the graph
 
-df = pd.read_csv("C:/Users/xandr/Desktop/Xandre/Programming/Python projects/penguins.csv")
+# Maybe Add your own directory to this file here, e.g("C:/Users/(pcname)/Desktop/penguins.csv")
+df = pd.read_csv("penguins.csv")
 # drops NaN values to make calculations easier
 df = df[['body_mass_g', 'bill_length_mm']].dropna()
 
